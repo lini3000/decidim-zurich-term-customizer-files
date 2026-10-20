@@ -1,0 +1,43 @@
+id;locale;key;value
+32679;de;decidim.proposals.proposals.index.new_proposal;Idee einbringen
+32680;en;decidim.proposals.proposals.index.new_proposal;Share your idea
+32681;de;decidim.proposals.proposals.new.title;Neue Idee einbringen
+32682;en;decidim.proposals.proposals.new.title;Contribute new idea
+32685;de;decidim.proposals.proposals.wizard_aside.back_from_step_1;Zurück
+32683;de;decidim.proposals.proposals.wizard_steps.step_1;Idee verfassen
+32684;en;decidim.proposals.proposals.wizard_steps.step_1;Formulate your idea
+32687;de;activemodel.models.decidim/proposals/publish_proposal_event;Idee veröffentlicht
+32688;en;activemodel.models.decidim/proposals/publish_proposal_event;Idea published
+32689;de;activerecord.models.decidim.proposals.proposal.budget_text;"Die Idee <span class=""resource-link"">%{link}</span> wurde erstellt"
+32690;en;activerecord.models.decidim.proposals.proposal.budget_text;"Your idea <span class=""resource-link"">%{link} was created</span>"
+32694;en;activerecord.models.decidim/proposals/proposal.other;Ideas
+32691;de;activerecord.models.decidim/proposals/proposal.one;Idee
+32692;en;activerecord.models.decidim/proposals/proposal.one;Idea
+32693;de;activerecord.models.decidim/proposals/proposal.other;Ideen
+32695;de;decidim.proposals.proposals.wizard_steps.step_2;Idee veröffentlichen
+32696;en;decidim.proposals.proposals.wizard_steps.step_2;Publish your idea
+32697;de;decidim.proposals.proposals.preview.title;Idee veröffentlichen
+32698;en;decidim.proposals.proposals.preview.title;Publish your idea
+32686;en;decidim.proposals.proposals.wizard_aside.back_from_step_1;Go Back
+32699;de;decidim.proposals.proposals.preview.modify;Eingabe ändern
+32700;en;decidim.proposals.proposals.preview.modify;Modify your idea
+32707;de;decidim.proposals.actions.answer_proposal;Idee beantworten
+32708;en;decidim.proposals.actions.answer_proposal;Answer idea
+32709;de;activerecord.models.decidim.proposals.proposal.split_to_proposal_text;Diese Idee wurde erstellt: %{link}
+32710;en;activerecord.models.decidim.proposals.proposal.split_to_proposal_text;This idea was created: %{link}
+32711;de;activerecord.models.decidim.proposals.proposal.split_from_proposal_text;Es wurde zu dieser Idee: %{link}
+32712;en;activerecord.models.decidim.proposals.proposal.split_from_proposal_text;It became this idea: %{link}
+32713;de;activerecord.models.decidim.proposals.proposal.merge_to_proposal_text;Diese Idee wurde erstellt: %{link}
+32714;en;activerecord.models.decidim.proposals.proposal.merge_to_proposal_text;This idea was created: %{link}
+32715;de;activerecord.models.decidim.proposals.proposal.merge_from_proposal_text;Es wurde zu dieser Idee: %{link}
+32716;en;activerecord.models.decidim.proposals.proposal.merge_from_proposal_text;It became this idea: %{link}
+32717;de;activerecord.models.decidim.proposals.proposal.import_from_proposal_text;Es wurde zu dieser Idee: %{link}
+32718;en;activerecord.models.decidim.proposals.proposal.import_from_proposal_text;It became this idea: %{link}
+32701;de;decidim.proposals.proposals.edit_draft.discard_confirmation;Möchten Sie diesen Entwurf wirklich verwerfen?
+32702;en;decidim.proposals.proposals.edit_draft.discard_confirmation;Are you sure you want to discard this proposal draft?
+32703;de;decidim.proposals.proposals.edit.title;Idee bearbeiten
+32704;en;decidim.proposals.proposals.edit.title;Edit idea
+32705;de;activerecord.models.decidim.proposals.proposal.import_to_proposal_text;"Die Idee <span class=""resource-link"">%{link}</span> wurde erstellt"
+32706;en;activerecord.models.decidim.proposals.proposal.import_to_proposal_text;"The idea <span ""resource-link"">%{link} was created</span>"
+32719;de;decidim.proposals.create.success;Die Idee wurde erfolgreich erstellt. Vergleichen Sie nun, ob bereits ähnliche Ideen bestehen.
+32720;en;decidim.proposals.create.success;Idea successfully created. Check if there are similar proposals.
