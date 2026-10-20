@@ -1,0 +1,16 @@
+id;locale;key;value
+32661;de;decidim.components.add_comment_form.form.body.placeholder;Welche Ideen und Anregungen haben Sie für die Weiterentwicklung des Friedhofs? Was ist Ihnen dabei wichtig?
+32662;en;decidim.components.add_comment_form.form.body.placeholder;What do you think about this?
+32663;de;decidim.components.edit_comment_modal_form.form.body.placeholder;Welche Ideen und Anregungen haben Sie für die Weiterentwicklung des Friedhofs? Was ist Ihnen dabei wichtig?
+32664;en;decidim.components.edit_comment_modal_form.form.body.placeholder;What do you think about this?
+32669;de;decidim.proposals.models.proposal.fields.official_proposal;Standort Friedhof
+32670;en;decidim.proposals.models.proposal.fields.official_proposal;Official proposal
+32665;de;activerecord.models.decidim/proposals/proposal.one;Standort
+32666;en;activerecord.models.decidim/proposals/proposal.one;Location
+32667;de;activerecord.models.decidim/proposals/proposal.other;Standorte
+32668;en;activerecord.models.decidim/proposals/proposal.other;"locations
+"
+32675;de;decidim.proposals.proposals.index.count.one;%{count} Standort
+32676;en;decidim.proposals.proposals.index.count.one;%{count} location
+32677;de;decidim.proposals.proposals.index.count.other;%{count} Standorte
+32678;en;decidim.proposals.proposals.index.count.other;%{count} locations
